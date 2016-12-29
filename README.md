@@ -1,3 +1,4 @@
+[![N|Solid](https://manager.swissclouding.com/templates/six/img/logo.png)](https://swissclouding.com)
 ## Speed test using python 
 
 ### This speedtest is using speedtest.net .
