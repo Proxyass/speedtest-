@@ -38,6 +38,7 @@ logo +="   | |\/| |/ _` |/ _` |/ _ \ | | '_ \  |  < / _ \/ __|/ _ \ \ / / _ \  \
 logo +="   | |  | | (_| | (_| |  __/ | | | | | | . \ (_) \__ \ (_) \ V / (_) | \n"
 logo +="   |_|  |_|\__,_|\__,_|\___| |_|_| |_| |_|\_\___/|___/\___/ \_/ \___/  \n\n"
 print logo
+print "By Ermal Ahmedi"
 # Some global variables we use
 user_agent = None
 source = None
