@@ -8,6 +8,6 @@
 $ apt-get install git
 $ mkdir speedtest 
 $ cd speedtest
-$ git clone ""
+$ git clone git@github.com:Proxyass/speedtest-.git
 $ python speedtest.py
 ```
